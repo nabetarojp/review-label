@@ -21,6 +21,9 @@ https://shields.io/
 ![good](https://img.shields.io/badge/good-%E3%82%B0%E3%83%83%E3%83%89%EF%BC%81-blue)  
 `![good](https://img.shields.io/badge/good-%E3%82%B0%E3%83%83%E3%83%89%EF%BC%81-blue)`
 
+![comment](https://img.shields.io/badge/comment-%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88-green)  
+`https://img.shields.io/badge/comment-%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88-green`
+
 ## tips
 ユーザー辞書に登録しておくと便利
 
