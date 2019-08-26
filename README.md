@@ -15,3 +15,9 @@ https://shields.io/
 ![question](https://img.shields.io/badge/question-%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E8%81%9E%E3%81%8D%E3%81%9F%E3%81%84%E3%81%93%E3%81%A8%E3%81%8C-lightgrey)
 
 ![good](https://img.shields.io/badge/good-%E3%82%B0%E3%83%83%E3%83%89%EF%BC%81-blue)
+
+
+## tips
+ユーザー辞書に登録しておくと便利
+
+![スクリーンショット 2019-08-26 16 23 42](https://user-images.githubusercontent.com/30409123/63672862-e8fcd000-c81d-11e9-9080-0876e82a53e6.png)
