@@ -24,6 +24,9 @@ https://shields.io/
 ![comment](https://img.shields.io/badge/comment-%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88-green)  
 `https://img.shields.io/badge/comment-%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88-green`
 
+![curiosity](https://img.shields.io/badge/curiosity-%E5%A5%BD%E5%A5%87%E5%BF%83%E3%81%A7%E3%81%8D%E3%81%8D%E3%81%9F%E3%81%84-ff69b4)  
+`![curiosity](https://img.shields.io/badge/curiosity-%E5%A5%BD%E5%A5%87%E5%BF%83%E3%81%A7%E3%81%8D%E3%81%8D%E3%81%9F%E3%81%84-ff69b4)`
+
 ## tips
 ユーザー辞書に登録しておくと便利
 
